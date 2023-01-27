@@ -21,7 +21,7 @@ export default function Home() {
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
-            <h1 className="font-sans text-xl">developed by</h1>
+            <h1 className="font-sans text-xl">Developed By</h1>
             <ul className="flex items-center">
               <li>
                 <BsFillMoonStarsFill
@@ -36,7 +36,7 @@ export default function Home() {
               Marc Espiritu
             </h2>
             <h3 className="text-2xl py-2 dark:text-white md:text-3xl">
-              Just a student.
+              I love you Werneil Wegmann
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               A student that has nothing to do.
